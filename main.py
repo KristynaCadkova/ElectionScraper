@@ -1,3 +1,10 @@
+"""
+main.py: third project for Engeto Online Python Academy
+author: Kristýna Čadková
+email: kristyna.posingerova@seznam.cz
+discord: kristyna_90682
+"""
+
 import sys
 import requests
 from bs4 import BeautifulSoup

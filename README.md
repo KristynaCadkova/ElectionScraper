@@ -48,9 +48,4 @@ See `requirements.txt` for the list of libraries and versions used.
 See the sample file `vysledky_praha.csv` for a real output example.
 
 ---
-"""
-main.py: third project for Engeto Online Python Academy  
-author: Kristýna Čadková  
-email: kristyna.posingerova@seznam.cz
-discord:kristyna_90682
-"""
+
